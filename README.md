@@ -15,8 +15,8 @@ and status LED's.
 For ESP8266 Documentation (esp. toolchain info) see [NurdSpace](https://nurdspace.nl/ESP8266)
 
 
-[![thingSoC AB_ESP8266](http://thingsoc.github.io/img/projects/AB_ESP8266/AB_ESP8266_top.png)  
-*AB_ESP8266*](https://github.com/thingSoC/AB_ESP8266)
+[![thingSoC AB_ESP8266](http://patternagents.github.io/img/projects/AB_ESP8266/AB_ESP8266_top.png)  
+*AB_ESP8266*](https://github.com/patternagents/AB_ESP8266)
 
 ---------------------------------------
 
