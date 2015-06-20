@@ -1,0 +1,21 @@
+[Eagle]
+Version="06 06 00"
+Platform="Windows"
+Serial="7212E3F38F-LSR-WLM-1CP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="V:/eagle/third_party/microbuilder/microbuilder.lbr"
+UsedLibrary="V:/eagle/third_party/element14/Hirose_Library/Hirose_Library/Hirose_By_element14_Batch_1.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="412 231 1011 630"
+State=1
+Number=0
+
+[Desktop]
+Screen="2720 1024"
+Window="Win_1"
